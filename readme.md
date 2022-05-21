@@ -1,3 +1,8 @@
+if app will not run in the netlify
+ 
+ you can run in the locally in VS code
+
+
 to start the app
 >>>>>
 cd frontend
